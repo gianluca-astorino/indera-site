@@ -856,7 +856,7 @@ body {
     }
 
     .intro--options {
-        display: block
+        display: block;
     }
 
     .intro--options>a {
@@ -905,9 +905,9 @@ body {
         margin-top: 0
     }
 
-    .intro--options {
+    /* .intro--options {
         display: none
-    }
+    } */
 
     .intro--options>a:hover {
         color: #fff
